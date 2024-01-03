@@ -1,0 +1,165 @@
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\.NET\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\WebApi.exe
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\WebApi.deps.json
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\WebApi.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\WebApi.pdb
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\CsvHelper.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_4\לנדא  צפורה\.net\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\WebApi\WebApi\bin\Debug\net6.0\appsettings.json
+D:\WebApi\WebApi\bin\Debug\net6.0\WebApi.exe
+D:\WebApi\WebApi\bin\Debug\net6.0\WebApi.deps.json
+D:\WebApi\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+D:\WebApi\WebApi\bin\Debug\net6.0\WebApi.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\WebApi.pdb
+D:\WebApi\WebApi\bin\Debug\net6.0\CsvHelper.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+D:\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebApi\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.dll
+D:\WebApi\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
+D:\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+D:\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
